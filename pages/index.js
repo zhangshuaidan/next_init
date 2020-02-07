@@ -1,0 +1,1 @@
+export default ()=> <div>hi this is nextjs 你好，这里是张帅丹 </div>
